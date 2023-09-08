@@ -1,1 +1,1 @@
-# AviatorFineGames
+Hello, I'm Gil Pomerantz, an Android game developer. My mission is to create captivating games for the Android platform that bring joy and excitement to players worldwide. With years of experience in game development, I work on crafting games that look stunning, run smoothly, and are memorable due to their engaging gameplay and compelling narratives. My goal is to make the world of gaming better for everyone.
